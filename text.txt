@@ -1,0 +1,8 @@
+penup
+goto 50 70
+pendown
+color pink
+point 10 40 20
+
+
+#Hello!
